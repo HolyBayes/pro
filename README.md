@@ -22,12 +22,14 @@ preds = model.predict(test_x) # 0 - normal sample, 1 - anomaly
 
 ## Authors
 
+```
 @article{pro,
   title={Deep Weakly-supervised Anomaly Detection},
   author={Pang, Guansong and Shen, Chunhua and Jin, Huidong and Anton, van den Hengel},
   journal={arXiv preprint arXiv:1910.13601},
   year={2020}
 }
+```
 
 ## Contacts
 
